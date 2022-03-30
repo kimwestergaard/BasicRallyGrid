@@ -1,2 +1,2 @@
-# BasicRallyGrid
+# BasicGrid
 our first app
